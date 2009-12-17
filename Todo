@@ -1,0 +1,7 @@
+Revision history for Melody-Data
+
+[x]     entry > assets support
+        Create a many-to-many relationship to provide assets to entries
+[x]     fix entry > categories support
+        entry categories are listed in the placement table
+
